@@ -1,5 +1,4 @@
-{
-    [
+[
     {
       "name": "Chicken Tikka Masala",
       "cuisine": "Indian",
@@ -30,5 +29,5 @@
       "price": "$15",
       "description": "A flatbread topped with tomato sauce and cheese, and then cooked in an oven."
     }
-    ]
-}
+]
+
