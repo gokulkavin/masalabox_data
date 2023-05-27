@@ -20,7 +20,7 @@
     },
     {
       "name": "The Oberoi",
-      "cuisine": "Indian",
+      "cuisine": "Italian",
       "price": "$$$$",
       "rating": 4.5,
       "location": {
@@ -38,7 +38,7 @@
     },
     {
       "name": "ITC Windsor",
-      "cuisine": "Indian",
+      "cuisine": "Japanese",
       "price": "$$$$",
       "rating": 4.5,
       "location": {
@@ -56,7 +56,7 @@
     },
     {
       "name": "Hyatt Regency Bangalore",
-      "cuisine": "Indian",
+      "cuisine": "American",
       "price": "$$$$",
       "rating": 4.5,
       "location": {
