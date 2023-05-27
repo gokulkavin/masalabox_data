@@ -77,31 +77,31 @@
     {
       "name": "Chicken Tikka Masala",
       "cuisine": "Indian",
-      "price": "$15",
+      "price": "\$15",
       "description": "A creamy and flavorful dish made with chicken marinated in yogurt and spices, then cooked in a tomato-based sauce."
     },
     {
       "name": "Pasta Carbonara",
       "cuisine": "Italian",
-      "price": "$12",
+      "price": "\$12",
       "description": "A classic Italian dish made with pasta, bacon, eggs, and cheese."
     },
     {
       "name": "Sushi Roll",
       "cuisine": "Japanese",
-      "price": "$10",
+      "price": "\$10",
       "description": "A Japanese dish made with rice, seaweed, and various fillings, such as fish, vegetables, and eggs."
     },
     {
       "name": "Burger",
       "cuisine": "American",
-      "price": "$10",
+      "price": "\$10",
       "description": "A classic American dish made with a patty of ground beef, cooked and placed between two halves of a bun, with various toppings, such as lettuce, tomato, onion, and cheese."
     },
     {
       "name": "Pizza",
       "cuisine": "Italian",
-      "price": "$15",
+      "price": "\$15",
       "description": "A flatbread topped with tomato sauce and cheese, and then cooked in an oven."
     }
   ]
